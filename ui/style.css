@@ -28,3 +28,7 @@ body {
     padding: 50px;
     background-color: lightgrey;
 }
+
+h1 {
+    text-align: center; 
+}
